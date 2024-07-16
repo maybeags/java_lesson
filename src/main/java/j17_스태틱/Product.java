@@ -1,8 +1,6 @@
 package j17_스태틱;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.ToString;
 
 @Data
 public class Product {
